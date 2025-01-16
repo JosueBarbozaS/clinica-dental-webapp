@@ -1,0 +1,511 @@
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\appsettings.Development.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\appsettings.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.staticwebassets.runtime.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.exe
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.deps.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.runtimeconfig.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.pdb
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.AssemblyInfoInputs.cache
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.AssemblyInfo.cs
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.csproj.CoreCompileInputs.cache
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.MvcApplicationPartsAssemblyInfo.cache
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.RazorAssemblyInfo.cache
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.RazorAssemblyInfo.cs
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets.build.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets.development.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.AppWebClinica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.build.AppWebClinica.props
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppWebClinica.props
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppWebClinica.props
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\scopedcss\bundle\AppWebClinica.styles.css
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\scopedcss\projectbundle\AppWebClinica.bundle.scp.css
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\refint\AppWebClinica.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.pdb
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.genruntimeconfig.cache
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\ref\AppWebClinica.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Azure.Core.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Azure.Identity.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Humanizer.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Common.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.CodeDom.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.csproj.AssemblyReference.cache
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebCl.15355333.Up2Date
+C:\Lenguajes2024G1\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\appsettings.Development.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\appsettings.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.staticwebassets.runtime.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.exe
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.deps.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.runtimeconfig.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\AppWebClinica.pdb
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Azure.Core.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Azure.Identity.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Humanizer.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Build.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Common.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.CodeDom.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.csproj.AssemblyReference.cache
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.AssemblyInfoInputs.cache
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.AssemblyInfo.cs
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.csproj.CoreCompileInputs.cache
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.MvcApplicationPartsAssemblyInfo.cache
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.RazorAssemblyInfo.cache
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.RazorAssemblyInfo.cs
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets.build.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets.development.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.AppWebClinica.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.build.AppWebClinica.props
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppWebClinica.props
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppWebClinica.props
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\scopedcss\bundle\AppWebClinica.styles.css
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\scopedcss\projectbundle\AppWebClinica.bundle.scp.css
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebCl.15355333.Up2Date
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\refint\AppWebClinica.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.pdb
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\AppWebClinica.genruntimeconfig.cache
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\obj\Debug\net8.0\ref\AppWebClinica.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Grpc.Core.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\Grpc.Core.Api.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+G:\Lenguajes 2024 UCR\AppWebClinica Email\AppWebClinica\AppWebClinica\AppWebClinica\bin\Debug\net8.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll

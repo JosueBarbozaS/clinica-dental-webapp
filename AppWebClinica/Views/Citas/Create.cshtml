@@ -1,0 +1,117 @@
+﻿@model AppWebClinica.Models.Cita
+
+@{
+    ViewData["Title"] = "Crear Nueva Cita";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card shadow-lg border-0 rounded-lg mt-5">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="text-center font-weight-light my-2">
+                        <i class="fas fa-calendar-plus me-2"></i>Agendar Nueva Cita
+                    </h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                        
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Cedula" class="form-control" placeholder="Ingrese su cédula" />
+                                    <label asp-for="Cedula">Cédula</label>
+                                    <span asp-validation-for="Cedula" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Nombre" class="form-control" placeholder="Nombre completo" />
+                                    <label asp-for="Nombre">Nombre Completo</label>
+                                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Email" class="form-control" placeholder="nombre@ejemplo.com" />
+                                    <label asp-for="Email">Correo Electrónico</label>
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="FechaHora" type="datetime-local" class="form-control" />
+                                    <label asp-for="FechaHora">Fecha y Hora</label>
+                                    <span asp-validation-for="FechaHora" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <select asp-for="Procedimiento" class="form-select">
+                                        <option value="">Seleccione un Procedimiento</option>
+                                        <option>Limpieza</option>
+                                        <option>Calzas</option>
+                                        <option>Extracciones</option>
+                                        <option>Blanqueamiento</option>
+                                        <option>Ortodoncia</option>
+                                    </select>
+                                    <label asp-for="Procedimiento">Procedimiento</label>
+                                    <span asp-validation-for="Procedimiento" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Precio" class="form-control" readonly />
+                                    <label asp-for="Precio">Precio</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="col-md-4">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Impuesto" class="form-control" readonly />
+                                    <label asp-for="Impuesto">Impuesto (13%)</label>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Total" class="form-control" readonly />
+                                    <label asp-for="Total">Total</label>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Adelanto" class="form-control" readonly />
+                                    <label asp-for="Adelanto">Adelanto (42%)</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-flex justify-content-between mt-4">
+                            <a asp-action="Index" class="btn btn-secondary">
+                                <i class="fas fa-arrow-left me-2"></i>Volver
+                            </a>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-save me-2"></i>Guardar Cita
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

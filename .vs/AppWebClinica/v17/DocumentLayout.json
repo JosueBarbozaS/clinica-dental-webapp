@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\citas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\citas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\models\\dbcontextclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\models\\dbcontextclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\wwwroot\\img\\dentista.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\wwwroot\\img\\dentista.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|g:\\lenguajes 2024 ucr\\appwebclinica email\\appwebclinica\\appwebclinica\\appwebclinica\\migrations\\20240410211442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC0149F-76AB-4309-8077-9742878837C2}|AppWebClinica\\AppWebClinica.csproj|solutionrelative:appwebclinica\\migrations\\20240410211442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Citas\\Edit.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Edit.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Citas\\Edit.cshtml",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAkwIoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:33:50.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Models\\Cita.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\Cita.cs",
+              "RelativeToolTip": "AppWebClinica\\Models\\Cita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T21:59:57.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AppWebClinica\\wwwroot\\js\\site.js",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AppWebClinica\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv0sAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-16T06:45:28.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\appsettings.json",
+              "RelativeDocumentMoniker": "AppWebClinica\\appsettings.json",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\appsettings.json",
+              "RelativeToolTip": "AppWebClinica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T02:14:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Program.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Program.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Program.cs",
+              "RelativeToolTip": "AppWebClinica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T21:35:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Citas\\Index.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Index.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Citas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T18:52:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T02:06:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppWebClinica\\wwwroot\\css\\site.css",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppWebClinica\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwDkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T00:14:33.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T02:06:55.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbContextClinica.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\DbContextClinica.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Models\\DbContextClinica.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\DbContextClinica.cs",
+              "RelativeToolTip": "AppWebClinica\\Models\\DbContextClinica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:25:44.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Citas\\Create.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Create.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Citas\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwHIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T18:52:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Email.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Models\\Email.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\Email.cs",
+              "RelativeToolTip": "AppWebClinica\\Models\\Email.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAAJAAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:04:36.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Controllers\\CitasController.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "AppWebClinica\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwKYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:56:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T02:10:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T02:48:24.359Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Citas\\Delete.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Delete.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Citas\\Delete.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwI0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:21:14.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Citas\\Details.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Citas\\Details.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Citas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T21:32:07.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dentista.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [1920x1080, 24 bits, JPG]",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\wwwroot\\img\\dentista.jpg",
+              "RelativeDocumentMoniker": "AppWebClinica\\wwwroot\\img\\dentista.jpg",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\wwwroot\\img\\dentista.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [1920x1080, 24 bits, JPG]",
+              "RelativeToolTip": "AppWebClinica\\wwwroot\\img\\dentista.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [1920x1080, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-03T19:04:11.493Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [1920x1080, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppWebClinica\\appsettings.Development.json",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\appsettings.Development.json",
+              "RelativeToolTip": "AppWebClinica\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T05:41:08.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:39:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppWebClinica\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:19:38.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240410211442_InitialCreate.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Migrations\\20240410211442_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Migrations\\20240410211442_InitialCreate.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Migrations\\20240410211442_InitialCreate.cs",
+              "RelativeToolTip": "AppWebClinica\\Migrations\\20240410211442_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:14:42.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Models\\ErrorViewModel.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppWebClinica\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:19:56.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppWebClinica\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppWebClinica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:40:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppWebClinica\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppWebClinica\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T02:32:10.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "AppWebClinica\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "G:\\Lenguajes 2024 UCR\\AppWebClinica Email\\AppWebClinica\\AppWebClinica\\AppWebClinica\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "AppWebClinica\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-09T02:26:44.867Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
